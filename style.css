@@ -1,0 +1,10 @@
+.border {
+    display:inline-block;
+    border: 1px solid black;
+    height: auto;
+    
+}
+
+.cardText {
+    text-align: center;
+}
